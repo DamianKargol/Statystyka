@@ -1,0 +1,84 @@
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 1.
+wynik całki 24.0.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 9.333333333333332.
+Błąd teoretyczny = 12.0.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 2.
+wynik całki 19.0.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 4.333333333333332.
+Błąd teoretyczny = 6.0.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 4.
+wynik całki 16.75.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 2.083333333333332.
+Błąd teoretyczny = 3.0.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 8.
+wynik całki 15.6875.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 1.0208333333333321.
+Błąd teoretyczny = 1.5.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 16.
+wynik całki 15.171875.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 0.5052083333333321.
+Błąd teoretyczny = 0.75.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 32.
+wynik całki 14.91796875.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 0.25130208333333215.
+Błąd teoretyczny = 0.375.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 64.
+wynik całki 14.7919921875.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 0.12532552083333215.
+Błąd teoretyczny = 0.1875.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 128.
+wynik całki 14.729248046875.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 0.06258138020833215.
+Błąd teoretyczny = 0.09375.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 256.
+wynik całki 14.69793701171875.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 0.03127034505208215.
+Błąd teoretyczny = 0.046875.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 512.
+wynik całki 14.682296752929688.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 0.01563008626301965.
+Błąd teoretyczny = 0.0234375.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 1024.
+wynik całki 14.674480438232422.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 0.007813771565754024.
+Błąd teoretyczny = 0.01171875.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 2048.
+wynik całki 14.670573234558105.
+Prawidłowy wynik  to 14.666666666666668.
+błąd pomiaru to 0.003906567891437618.
+Błąd teoretyczny = 0.005859375.

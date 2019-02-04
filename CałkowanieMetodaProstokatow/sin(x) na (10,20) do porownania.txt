@@ -1,0 +1,30 @@
+﻿.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 1.
+wynik całki 9.129452507276277.
+Prawidłowy wynik  to -1.2471535908898443.
+błąd pomiaru to -10.376606098166121.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 10.
+wynik całki -0.41296648679822834.
+Prawidłowy wynik  to -1.2471535908898443.
+błąd pomiaru to -0.834187104091616.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 100.
+wynik całki -1.1732658048928897.
+Prawidłowy wynik  to -1.2471535908898443.
+błąd pomiaru to -0.07388778599695467.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 1000.
+wynik całki -1.2398583661178482.
+Prawidłowy wynik  to -1.2471535908898443.
+błąd pomiaru to -0.007295224771996178.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 10000.
+wynik całki -1.2464250037795717.
+Prawidłowy wynik  to -1.2471535908898443.
+błąd pomiaru to -7.285871102726826E-4.

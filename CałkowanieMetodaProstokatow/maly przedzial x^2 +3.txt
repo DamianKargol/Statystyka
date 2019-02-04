@@ -1,0 +1,42 @@
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 1.
+wynik całki 4030.0.
+Prawidłowy wynik  to 2363.333333333333.
+błąd pomiaru to -1666.666666666667.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 10.
+wynik całki 2515.0.
+Prawidłowy wynik  to 2363.333333333333.
+błąd pomiaru to -151.66666666666697.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 100.
+wynik całki 2378.3500000000004.
+Prawidłowy wynik  to 2363.333333333333.
+błąd pomiaru to -15.016666666667334.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 1000.
+wynik całki 2364.8335.
+Prawidłowy wynik  to 2363.333333333333.
+błąd pomiaru to -1.5001666666671554.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 10000.
+wynik całki 2363.4833349999967.
+Prawidłowy wynik  to 2363.333333333333.
+błąd pomiaru to -0.15000166666368386.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 100000.
+wynik całki 2363.3483333499594.
+Prawidłowy wynik  to 2363.333333333333.
+błąd pomiaru to -0.015000016626345314.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 1000000.
+wynik całki 2363.3348333335534.
+Prawidłowy wynik  to 2363.333333333333.
+błąd pomiaru to -0.001500000220403308.

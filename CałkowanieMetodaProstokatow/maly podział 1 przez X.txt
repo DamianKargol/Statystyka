@@ -1,0 +1,18 @@
+﻿. funkcja 1/x mały przedział całkowania 
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 1.
+wynik całki 0.5.
+Prawidłowy wynik  to 0.693147180559945.
+błąd pomiaru to 0.19314718055994495.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 10.
+wynik całki 0.6687714031754279.
+Prawidłowy wynik  to 0.693147180559945.
+błąd pomiaru to 0.024375777384517017.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 10.0 xk = 20.0 n = 100.
+wynik całki 0.690653430481824.
+Prawidłowy wynik  to 0.693147180559945.
+błąd pomiaru to 0.0024937500781209154.

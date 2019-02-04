@@ -1,0 +1,63 @@
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 1.
+wynik całki 0.2822400161197344.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 1.2480547863488507.
+Błąd teoretyczny = 2.0.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 2.
+wynik całki 1.0504174348855488.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 0.47987736758303634.
+Błąd teoretyczny = 1.0.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 4.
+wynik całki 1.32319228279678.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 0.20710251967180526.
+Błąd teoretyczny = 0.5.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 8.
+wynik całki 1.4347723301908342.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 0.09552247227775101.
+Błąd teoretyczny = 0.25.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 16.
+wynik całki 1.4845297759725433.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 0.04576502649604186.
+Błąd teoretyczny = 0.125.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 32.
+wynik całki 1.5079106591716729.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 0.022384143296912296.
+Błąd teoretyczny = 0.0625.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 64.
+wynik całki 1.5192272807200653.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 0.011067521748519882.
+Błąd teoretyczny = 0.03125.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 128.
+wynik całki 1.5247921764085963.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 0.005502626059988858.
+Błąd teoretyczny = 0.015625.
+.
+Wyniki z przebiegu doświadczenia.
+metoda prostokątów dla współrzędnych xp = 1.0 xk = 3.0 n = 256.
+wynik całki 1.5275512729758818.
+Prawidłowy wynik  to 1.5302948024685852.
+błąd pomiaru to 0.0027435294927034004.
+Błąd teoretyczny = 0.0078125.
