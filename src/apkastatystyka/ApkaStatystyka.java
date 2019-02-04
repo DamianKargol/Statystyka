@@ -434,7 +434,7 @@ public class ApkaStatystyka extends JFrame {
 
         public wyświetlPrzedziałowy() throws FileNotFoundException, IOException {
      
-             super("Statystyka");
+             super("Statystyka"); //s
         this.setBounds(400, 400, 400, 400);
         this.setDefaultCloseOperation(3); // wylacza ramke gdy X
         Container kontener = this.getContentPane(); // panel przechowujacy przyciski wyswietlenia itp
